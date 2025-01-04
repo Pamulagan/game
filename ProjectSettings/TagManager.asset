@@ -11,6 +11,7 @@ TagManager:
   - 
   - Water
   - UI
+  - Post Processing
   - 
   - 
   - 
@@ -24,10 +25,9 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
   - 
   - 
   - 
@@ -40,6 +40,21 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 2425651459
+    locked: 0
+  - name: Weapon
+    uniqueID: 2693070553
+    locked: 0
+  - name: Layer 3
+    uniqueID: 4250941897
+    locked: 0
+  - name: Layer 4
+    uniqueID: 4189426099
+    locked: 0
+  - name: Layer 5
+    uniqueID: 2763500109
     locked: 0
   m_RenderingLayers:
   - Default
